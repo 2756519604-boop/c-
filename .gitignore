@@ -1,0 +1,48 @@
+# Visual Studio 生成的文件和临时文件（强烈推荐）
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa]ny CPU/
+[Bb]in/
+[Oo]bj/
+[Dd]ebugPublic/
+[Rr]eleasePublic/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.sln.dotsettings.user
+
+# Visual C++ cache files
+ipch/
+*.aps
+*.ncb
+*.opendb
+*.opensdf
+*.sdf
+*.cachefile
+*.VC.db
+
+# Executable and debug files
+*.exe
+*.pdb
+*.ilk
+*.obj
+*.pch
+
+# Logs and temporary files
+*.log
+*.tlog
+TestResult.xml
+[Bb]uild[Ll]og.*
+
+# 其他常见忽略（根据你的项目可以继续添加）
+*.vs/
+.vscode/
+*.tmp
+*.temp
